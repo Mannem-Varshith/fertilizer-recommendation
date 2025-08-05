@@ -50,17 +50,18 @@ A Streamlit-based web application that recommends the best fertilizer based on c
 
 ## 🚀 Deployment Options
 
-### Option 1: Streamlit Cloud (Recommended)
+### Option 1: Streamlit Cloud (Recommended) ✅
 
-1. **Create a GitHub repository**
-   - Push your code to GitHub
-   - Make sure all files are included
+1. **Your GitHub repository is ready**: `https://github.com/Mannem-Varshith/fertilizer-recommendation.git`
 
 2. **Deploy on Streamlit Cloud**
    - Go to [share.streamlit.io](https://share.streamlit.io)
    - Sign in with GitHub
-   - Connect your repository
-   - Deploy!
+   - Click "New app"
+   - Select your repository: `Mannem-Varshith/fertilizer-recommendation`
+   - Set the path to your app: `app.py`
+   - Click "Deploy!"
+   - Your app will be live at: `https://your-app-name.streamlit.app`
 
 ### Option 2: Heroku
 
